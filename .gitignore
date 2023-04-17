@@ -1,0 +1,17 @@
+# Arquivos binários
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Arquivos de configuração
+*.env
+*.yaml
+*.yml
+
+# Pasta de dependências
+vendor/
+
+# Arquivos de build
+*.out
+*.test
